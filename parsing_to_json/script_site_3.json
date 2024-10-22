@@ -1,0 +1,416 @@
+[
+     {
+          "name": "Centro Comercial Mayorca  Etapa 1",
+          "address": "Medellín, Calle 51 Sur # 48 – 57 Local 358",
+          "latlon": [
+               6.176061,
+               -75.649893
+          ],
+          "phones": [
+               "3256600 ext 4906"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 20:00",
+               "sun 11:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial MayorcaEtapa 2",
+          "address": "Medellín, Calle 51 Sur # 48 – 57 Local 9910",
+          "latlon": [
+               6.176061,
+               -75.649893
+          ],
+          "phones": [
+               "3256600 ext 4910"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 20:00",
+               "sun 11:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial Oviedo",
+          "address": "Medellín, Cra. 43a # 6 Sur – 15 Local 1324",
+          "latlon": [
+               6.239516,
+               -75.567167
+          ],
+          "phones": [
+               "3256600 ext 4902"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 20:00",
+               "sun 11:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial Unicentro ",
+          "address": "Medellín, Cra 66 B # 34 A 76Local 2-200",
+          "latlon": [
+               6.306009,
+               -75.565504
+          ],
+          "phones": [
+               "3256600 ext 4907"
+          ],
+          "working_hours": [
+               "mon - sat 8:30 - 20:00",
+               "sun 10:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Mall La Frontera ",
+          "address": "Medellín, Cra. 43a # 18 Sur – 166Local 108",
+          "latlon": [
+               6.239516,
+               -75.567167
+          ],
+          "phones": [
+               "3256600 ext 4903"
+          ],
+          "working_hours": [
+               "mon - sat 7:00 - 19:00",
+               "sun 8:30 - 17:00"
+          ]
+     },
+     {
+          "name": "Estación Ferrocarril",
+          "address": "Medellín, Cra. 52 # 43-31",
+          "latlon": [
+               6.276652,
+               -75.564221
+          ],
+          "phones": [
+               "3256600 ext 4913"
+          ],
+          "working_hours": [
+               "mon - fri 6:30 - 17:00",
+               "sat 7:00 - 24:00"
+          ]
+     },
+     {
+          "name": "Universidad Pontificia Bolivariana",
+          "address": "Medellín, Circular 1 # 70 – 01Boulevar Biblioteca",
+          "latlon": [
+               6.244515,
+               -75.59029
+          ],
+          "phones": [
+               "3256600 ext 4911"
+          ],
+          "working_hours": [
+               "mon - fri 6:30 - 20:00",
+               "sat 7:30 - 24:00"
+          ]
+     },
+     {
+          "name": "Viva Laureles",
+          "address": "Medellín, Carrera 81 # 37 – 100Local 005",
+          "latlon": [
+               6.298769,
+               -75.579577
+          ],
+          "phones": [
+               "3256600 ext 4912"
+          ],
+          "working_hours": [
+               "mon - sat 8:30 - 20:00",
+               "sun and hol 10:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Terminal del Sur",
+          "address": "Medellín, Cra. 65 # 8 B 91Local 146",
+          "latlon": [
+               6.270192,
+               -75.575852
+          ],
+          "phones": [
+               "3256600 ext 4905"
+          ],
+          "working_hours": [
+               "mon - sat 7:30 - 18:00",
+               "sun 8:30 - 18:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Olaya Herrera",
+          "address": "Medellín, Cra. 65a # 13 – 157Local 27 – 28",
+          "latlon": [
+               6.306957,
+               -75.564448
+          ],
+          "phones": [
+               "3256600 ext 4904"
+          ],
+          "working_hours": [
+               "mon - sat 4:30 - 17:00",
+               "sun 6:30 - 17:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto  Internacional José María Córdoba",
+          "address": "Medellín, Entrada 4, Sala 9 Frente al counter de Avianca",
+          "latlon": [
+               6.244338,
+               -75.573553
+          ],
+          "phones": [
+               "3256600 ext 4914"
+          ],
+          "working_hours": [
+               "round the clock 24 horas."
+          ]
+     },
+     {
+          "name": "Terminal del Norte",
+          "address": "Medellín, Carrera. 64c # 78 – 580Local 490",
+          "latlon": [
+               6.266917,
+               -75.574761
+          ],
+          "phones": [
+               "3256600 ext 4908"
+          ],
+          "working_hours": [
+               "mon - sat 7:00 - 20:00",
+               "sun 8:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Parque el Poblado",
+          "address": "Medellín, Carrera 43A # 8 – 36",
+          "latlon": [
+               6.239516,
+               -75.567167
+          ],
+          "phones": [
+               "3256600 ext 4901"
+          ],
+          "working_hours": [
+               "mon - sat 7:00 - 18:00",
+               "sun 9:30 - 15:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial El Retiro",
+          "address": "Bogotá, Calle 82 11-75 Local 124",
+          "latlon": [
+               4.665749,
+               -74.053475
+          ],
+          "phones": [
+               "3173869066"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 20:00",
+               "sun and hol 9:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial Plaza De Las Américas",
+          "address": "Bogotá, Cra. 71d # 6 – 94 Sur Local 1908",
+          "latlon": [
+               4.645012,
+               -74.126114
+          ],
+          "phones": [
+               "3182479508"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 20:00",
+               "sun and hol 9:30 - 19:00"
+          ]
+     },
+     {
+          "name": "Centro Comercial  Hacienda Santa Bárbara",
+          "address": "Bogotá, Av. Cra. 7 # 115 – 60 Local 220",
+          "latlon": [
+               4.659029,
+               -74.052687
+          ],
+          "phones": [
+               "3173189121"
+          ],
+          "working_hours": [
+               "mon - sat 9:00 - 19:00",
+               "sun and hol 9:30 - 18:00"
+          ]
+     },
+     {
+          "name": "Calle 119",
+          "address": "Bogotá, Calle 119 # 14 – 10",
+          "latlon": [
+               4.698804,
+               -74.042176
+          ],
+          "phones": [
+               "3157596426"
+          ],
+          "working_hours": [
+               "mon - sat 8:00 - 18:00",
+               "sun and hol 8:00 - 18:00"
+          ]
+     },
+     {
+          "name": "Ktronix Salitre",
+          "address": "Bogotá, Cra 68b # 25 B – 80",
+          "latlon": [
+               4.646493,
+               -74.113287
+          ],
+          "phones": [
+               "3176572187"
+          ],
+          "working_hours": [
+               "mon - sat 8:30 - 19:00",
+               "sun and hol 8:30 - 18:00"
+          ]
+     },
+     {
+          "name": "Calle 95",
+          "address": "Bogotá, Calle 95 # 13 – 55",
+          "latlon": [
+               4.695595,
+               -74.082922
+          ],
+          "phones": [
+               "3153432593"
+          ],
+          "working_hours": [
+               "mon - fri 7:00 - 18:00",
+               "sat",
+               " sun with hol 8:00 - 17:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional El Dorado  - Puente Aéreo",
+          "address": "Bogotá, Terminal Puente Aéreo",
+          "latlon": [
+               4.768795,
+               -74.043464
+          ],
+          "phones": [
+               "3185170704"
+          ],
+          "working_hours": [
+               "mon - sat with hol : 6:30 - 21:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional El Dorado -Muelle Sur",
+          "address": "Bogotá, Av. El Dorado # 113 – 85Muelle Nacional Sur – Segundo Piso",
+          "latlon": [
+               4.613507,
+               -74.071669
+          ],
+          "phones": [
+               "3164491065"
+          ],
+          "working_hours": [
+               "round the clock 24 horas."
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional El Dorado -Muelle Norte",
+          "address": "Bogotá, Aeropuerto El Dorado – Terminal 1 muelle Nacional Norte",
+          "latlon": [
+               4.699253,
+               -74.141761
+          ],
+          "phones": [
+               "3174519631"
+          ],
+          "working_hours": [
+               "round the clock 24 horas."
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional El Dorado - Salidas Internacionales",
+          "address": "Bogotá, Av. El Dorado # 113 – 85Salida Internacional – Segundo Piso",
+          "latlon": [
+               4.613507,
+               -74.071669
+          ],
+          "phones": [
+               "3174276371"
+          ],
+          "working_hours": [
+               "round the clock  24 horas."
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional El Dorado - Hall Público",
+          "address": "Bogotá, Aeropuerto El Dorado – Llegadas nacionales",
+          "latlon": [
+               4.699253,
+               -74.141761
+          ],
+          "phones": [
+               "3183517734"
+          ],
+          "working_hours": [
+               "round the clock 24 horas."
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional Los Garzones - Zona Pública",
+          "address": "Pastelería en Montería, Km 10 vía MonteríaLocal 102 – Zona pública",
+          "latlon": [
+               8.750936,
+               -75.878681
+          ],
+          "phones": [
+               "3116447470"
+          ],
+          "working_hours": [
+               "mon - sat 6:30 - 20:00",
+               "sun and hol 6:30 - 20:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional Los Garzones - Sala Abordaje ",
+          "address": "Pastelería en Montería, Km 10 vía MonteríaLocal 107 –Sala de abordaje",
+          "latlon": [
+               8.750936,
+               -75.878681
+          ],
+          "phones": [
+               "3116447470"
+          ],
+          "working_hours": [
+               "mon - sat 6:30 - 20:00",
+               "sun and hol 6:30 - 20:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional Matecaña – Pereira, Risaralda",
+          "address": "Pereira, Km 4 Vía Cerritos, Local 59",
+          "latlon": [
+               4.813828,
+               -75.78827
+          ],
+          "phones": [
+               "3153661214"
+          ],
+          "working_hours": [
+               "mon - sat 5:00 - 12:00"
+          ]
+     },
+     {
+          "name": "Aeropuerto Internacional Ernesto Cortissoz – Soledad, Barranquilla",
+          "address": "Barranquilla, Frente al counter de Copa Air LinesLocal 020516",
+          "latlon": [
+               11.010192,
+               -74.823179
+          ],
+          "phones": [
+               "3160175000"
+          ],
+          "working_hours": [
+               "mon - sat 4:00 - 20:00",
+               "sun and hol 6:30 - 20:00"
+          ]
+     }
+]
