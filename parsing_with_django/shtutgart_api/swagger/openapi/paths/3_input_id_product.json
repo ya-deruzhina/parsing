@@ -1,0 +1,49 @@
+{
+    "/api/v1/product/": {
+        "post": {
+            "description": "Input Id Product",
+            "tags": [
+                "Product"
+            ],
+            "requestBody": {
+                "$ref": "#/components/requestBodies/IdProductRequestBody"
+            },
+            "responses": {
+                "200": {
+                    "description": "Returned when request body is valid",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "status": {
+                                        "type": "object",
+                                        "example": {
+                                            "status":"loading"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "400": {
+                    "description": "Returned when request body is not valid",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "errors": {
+                                        "type": "object",
+                                        "example": {
+                                            "errors":"404"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

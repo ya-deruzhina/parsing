@@ -1,0 +1,16 @@
+{% extends 'main.html' %}
+
+{% block content %}
+    {% for product in catalog %}
+    <li> 
+        <p> <a href="/pizza/lisa/"> *** {{ product.name }}  </a> - Price {{product.price}} BYN </p> 
+            <form action="/pizza/lisa/basket/" method="post">
+                <button type="submit">Add to Basket</button> 
+            </form>  
+            <br>     
+        </p>
+        </li>
+    {% endfor %}
+
+
+{% endblock %}

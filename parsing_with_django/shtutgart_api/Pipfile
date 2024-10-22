@@ -1,0 +1,39 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==4.1"
+django-cors-headers = "==3.13.0"
+django-extensions = "==3.2.0"
+django-filter = "==22.1"
+djangorestframework = "==3.13.1"
+djangorestframework-jwt = "==1.11.0"
+ipython = "==8.3.0"
+psycopg2-binary = "==2.9.3"
+python-dotenv = "*"
+loguru = "*"
+gunicorn = "*"
+celery = "==5.3.6"
+redis = "*"
+pytest = "*"
+drf-spectacular = "*"
+django-redis ="*"
+redis-cli="*"
+requests="*"
+
+[dev-packages]
+pre-commit = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.10"
+
+[scripts]
+server = "python manage.py runserver"
+shell = "python manage.py shell_plus"
+seed = "python scripts/run_seeds.py"
+migrate = "python manage.py migrate"
+auto_migration = "python manage.py makemigrations"
+script = "python scripts/run_script.py"
