@@ -1,2 +1,3 @@
 # Test
-.lessons/parsing_example.py
+.lessons/
+*.pyc
